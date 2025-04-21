@@ -6,7 +6,7 @@
 
     <!-- Transparent paths -->
     <path
-        android:fillColor="#00FFFFFF"
+        android:fillColor="#00000000"
         android:pathData="M34,38
                           h6
                           l12,16
@@ -16,7 +16,7 @@
                           " />
 
     <path
-        android:fillColor="#00FFFFFF"
+        android:fillColor="#00000000"
         android:pathData="M56,66
                           h18
                           v4
